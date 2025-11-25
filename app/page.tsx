@@ -256,9 +256,6 @@ export default function Home() {
                   >
                     Étudiant BUT 2 Informatique
                   </p>
-                  <p className={`text-sm md:text-lg ${isDarkMode ? "text-gray-300" : "text-muted-foreground"}`}>
-                    Web, Développement de Jeux & Conception 3D
-                  </p>
                 </div>
 
                 <div className="space-y-3 md:space-y-4 group cursor-pointer">
